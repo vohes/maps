@@ -9,7 +9,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Atzbach: 1 Objekte"
          },
@@ -24,7 +24,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Beuern: 1 Objekte"
          },
@@ -39,7 +39,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Birklar: 1 Objekte"
          },
@@ -54,7 +54,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Borsdorf: 1 Objekte"
          },
@@ -69,7 +69,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Gambach: 1 Objekte"
          },
@@ -84,7 +84,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Großen-Buseck: 1 Objekte"
          },
@@ -99,7 +99,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Grünberg: 1 Objekte"
          },
@@ -114,7 +114,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Langsdorf: 1 Objekte"
          },
@@ -129,7 +129,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Lollar: 1 Objekte"
          },
@@ -144,7 +144,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Oberhörgern: 1 Objekte"
          },
@@ -159,7 +159,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Rockenberg: 1 Objekte"
          },
@@ -174,7 +174,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Villingen: 1 Objekte"
          },
@@ -189,7 +189,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Watzenborn-Steinberg: 1 Objekte"
          },
@@ -204,7 +204,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Bellersheim: 2 Objekte"
          },
@@ -219,7 +219,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Obbornhofen: 2 Objekte"
          },
@@ -234,7 +234,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Kirchgöns: 3 Objekte"
          },
@@ -249,7 +249,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Muschenheim: 3 Objekte"
          },
@@ -264,7 +264,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Mainzlar: 4 Objekte"
          },
@@ -279,7 +279,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "6d8cad",
+            "marker-color" : "ff0000",
             "marker-size" : "small",
             "title" : "Ostheim: 4 Objekte"
          },
@@ -294,7 +294,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Klein-Linden: 5 Objekte"
          },
@@ -309,7 +309,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Climbach: 7 Objekte"
          },
@@ -324,7 +324,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Inheiden: 7 Objekte"
          },
@@ -339,7 +339,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Leihgestern: 7 Objekte"
          },
@@ -354,7 +354,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Lich: 8 Objekte"
          },
@@ -369,7 +369,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Trais-Münzenberg: 8 Objekte"
          },
@@ -384,7 +384,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Treis/Lumda: 8 Objekte"
          },
@@ -399,7 +399,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Bettenhausen: 10 Objekte"
          },
@@ -414,7 +414,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "326cad",
+            "marker-color" : "cc0000",
             "marker-size" : "small",
             "title" : "Gießen: 13 Objekte"
          },
@@ -429,7 +429,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "0253ad",
+            "marker-color" : "990000",
             "marker-size" : "large",
             "title" : "Münzenberg: 21 Objekte"
          },
@@ -444,7 +444,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "0253ad",
+            "marker-color" : "990000",
             "marker-size" : "large",
             "title" : "Griedel: 24 Objekte"
          },
@@ -459,7 +459,7 @@
             "type" : "Point"
          },
          "properties" : {
-            "marker-color" : "0253ad",
+            "marker-color" : "990000",
             "marker-size" : "large",
             "title" : "Eberstadt: 26 Objekte"
          },
