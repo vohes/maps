@@ -295,7 +295,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Klein-Linden: 5 Objekte"
          },
          "type" : "Feature"
@@ -310,7 +310,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Climbach: 7 Objekte"
          },
          "type" : "Feature"
@@ -325,7 +325,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Inheiden: 7 Objekte"
          },
          "type" : "Feature"
@@ -340,7 +340,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Leihgestern: 7 Objekte"
          },
          "type" : "Feature"
@@ -355,7 +355,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Lich: 8 Objekte"
          },
          "type" : "Feature"
@@ -370,7 +370,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Trais-Münzenberg: 8 Objekte"
          },
          "type" : "Feature"
@@ -385,7 +385,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Treis/Lumda: 8 Objekte"
          },
          "type" : "Feature"
@@ -400,7 +400,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Bettenhausen: 10 Objekte"
          },
          "type" : "Feature"
@@ -415,7 +415,7 @@
          },
          "properties" : {
             "marker-color" : "cc0000",
-            "marker-size" : "small",
+            "marker-size" : "medium",
             "title" : "Gießen: 13 Objekte"
          },
          "type" : "Feature"
