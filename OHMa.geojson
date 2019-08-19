@@ -1,0 +1,470 @@
+{
+   "features" : [
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.58333",
+               "50.58333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Atzbach: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.81667",
+               "50.63333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Beuern: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.81464",
+               "50.49399"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Birklar: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.96667",
+               "50.43333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Borsdorf: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.7252",
+               "50.461"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Gambach: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.78333",
+               "50.6"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Großen-Buseck: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.95866",
+               "50.59403"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Grünberg: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.85464",
+               "50.49399"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Langsdorf: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.70495",
+               "50.64652"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Lollar: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.75027",
+               "50.46494"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Oberhörgern: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.73688",
+               "50.4305"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Rockenberg: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.93609",
+               "50.50447"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Villingen: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.7",
+               "50.53333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Watzenborn-Steinberg: 1 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.83799",
+               "50.45302"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Bellersheim: 2 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.83129",
+               "50.43936"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Obbornhofen: 2 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.65285",
+               "50.47133"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Kirchgöns: 3 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.8",
+               "50.48333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Muschenheim: 3 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.73333",
+               "50.66667"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Mainzlar: 4 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.6713",
+               "50.40321"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "6d8cad",
+            "marker-size" : "small",
+            "title" : "Ostheim: 4 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.65",
+               "50.56667"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Klein-Linden: 5 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.81687",
+               "50.65915"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Climbach: 7 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.90373",
+               "50.44707"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Inheiden: 7 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.6768",
+               "50.52783"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Leihgestern: 7 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.81567",
+               "50.52085"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Lich: 8 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.78838",
+               "50.46439"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Trais-Münzenberg: 8 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.78333",
+               "50.66667"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Treis/Lumda: 8 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.83215",
+               "50.48154"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Bettenhausen: 10 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.65",
+               "50.58333"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "326cad",
+            "marker-size" : "small",
+            "title" : "Gießen: 13 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.7743",
+               "50.45346"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "0253ad",
+            "marker-size" : "large",
+            "title" : "Münzenberg: 21 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.70538",
+               "50.43925"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "0253ad",
+            "marker-size" : "large",
+            "title" : "Griedel: 24 Objekte"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "8.75954",
+               "50.48034"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "marker-color" : "0253ad",
+            "marker-size" : "large",
+            "title" : "Eberstadt: 26 Objekte"
+         },
+         "type" : "Feature"
+      }
+   ],
+   "type" : "FeatureCollection"
+}
